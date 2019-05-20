@@ -11,4 +11,4 @@ Note: To see what props are sent to native component, I also print out props in 
 
 |DEBUG|RELEASE|
 |-----|-------|
-|https://raw.githubusercontent.com/aliustaoglu/react-native-bug-resolve-asset-source/master/screenshots/imagesource-debug.png|https://raw.githubusercontent.com/aliustaoglu/react-native-bug-resolve-asset-source/master/screenshots/imagesource-release.png|
+|![debug](https://raw.githubusercontent.com/aliustaoglu/react-native-bug-resolve-asset-source/master/screenshots/imagesource-debug.png)|![release](https://raw.githubusercontent.com/aliustaoglu/react-native-bug-resolve-asset-source/master/screenshots/imagesource-release.png)|

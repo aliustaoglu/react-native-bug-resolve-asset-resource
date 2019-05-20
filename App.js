@@ -10,7 +10,7 @@ import React, { Component } from 'react'
 import { Platform, StyleSheet, Text, View, requireNativeComponent, Image } from 'react-native'
 
 const CustomImage = requireNativeComponent('CustomImage')
-const img = require('./images/marker.png')
+const img = require('./images/png/marker.png')
 
 export default class App extends Component {
   render() {
